@@ -1,0 +1,23 @@
+/* ══════════════════════════════════
+   CSS VARIABLES — Design Tokens
+   Javier Reyes | Portfolio
+══════════════════════════════════ */
+
+:root {
+  /* Gradiente azul monocromático — oscuro a claro */
+  --grad-start:  #0d2a5e;   /* azul marino muy oscuro  */
+  --grad-mid:    #1a5fad;   /* azul medio              */
+  --grad-end:    #5ba3d9;   /* azul acero claro        */
+
+  --blue:        #1a5fad;   /* botones / acentos       */
+  --blue-dark:   #0d2a5e;   /* hover / títulos fuertes */
+  --blue-light:  #5ba3d9;   /* detalles suaves         */
+
+  --bg-light:    #eef4fb;   /* secciones alternas      */
+  --bg-white:    #ffffff;
+  --text-dark:   #0d2a5e;   /* texto principal — azul oscuro */
+  --text-muted:  #3a6ea8;   /* texto secundario — azul medio */
+  --border:      #c5ddf2;   /* bordes azul suave       */
+  --card-shadow: 0 4px 24px rgba(13,42,94,.09);
+  --radius:      16px;
+}
