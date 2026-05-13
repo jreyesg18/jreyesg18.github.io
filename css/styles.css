@@ -518,6 +518,7 @@ section { padding: 80px 0; }
 .project-card-image.c2 { background: linear-gradient(135deg, #1a5fad 0%, #5ba3d9 100%); }
 .project-card-image.c3 { background: linear-gradient(135deg, #0d2a5e 0%, #2e7cc4 100%); }
 .project-card-image.c4 { background: linear-gradient(135deg, #163f80 0%, #5ba3d9 100%); }
+.project-card-image.c5 { background: linear-gradient(135deg, #0d2a5e 0%, #1e6b3e 100%); }
 
 .project-card-image .proj-icon {
   font-size: 4.5rem;
